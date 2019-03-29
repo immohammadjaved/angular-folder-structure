@@ -1,5 +1,5 @@
 # Highly Scalable Angular Folder Structure
-The project is inspired by an article I wrote on Medium called [How to define a highly scalable folder structure for your Angular project](https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7). The project is based on best practices from the community, other github Angular projects and my own experiences from working on several Angular projects. 
+The project is based on best practices from the community, other github Angular projects and my own experiences from working on several Angular projects. 
 
 ![login screen screenshot](https://i.imgur.com/J1B3I02.jpg)
 
@@ -49,7 +49,7 @@ npm run lint -> Lint code
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2018 Mathis Garberg
+Copyright (c) 2019 Mohammad Javed
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
